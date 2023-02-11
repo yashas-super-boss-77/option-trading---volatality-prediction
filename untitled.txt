@@ -1,0 +1,6 @@
+Important links
+
+for calculation call and put option price using nse and black scholes model
+    https://www.youtube.com/watch?v=--HBk7CAewU
+website for predicting option prices using black scholes
+    https://medium.com/swlh/calculating-option-premiums-using-the-black-scholes-model-in-python-e9ed227afbee#:~:text=are%20normally%20distributed.-,Black%20Scholes%20in%20Python,for%20calculating%20d1%20and%20d2.
